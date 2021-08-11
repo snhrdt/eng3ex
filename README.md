@@ -2,7 +2,7 @@
 
 ## General requirements
 
-1. Clone this repository to your own user/organisation.
+1. Work in this repository only; do not fork it. This is a private repository for only you, the applicant, and me as the reviewer.
 2. For each of the following exercises, create a folder and develop your solution inside this folder. Each solution should have one executable Main class; you can use additional classes as you see fit.
 3. Unless otherwise stated, you can use all classes, interfaces, enums etc. of the Java 11 SDK. Do **not** use any additional libraries.
 4. Each solution to an exercise needs to be independent of the other solutions and should be easily runnable by executing the Main class: `java Main`.
